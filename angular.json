@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "crypto-Web"
+  "defaultProject": "crypto-Web",
+  "cli": {
+    "analytics": "de4603d2-5472-44a6-9f11-83d06f95cb48"
+  }
 }
